@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 by running this:
 - npx create-react-app rts --template typescript
+=======
+# Getting Started with Create React App with Typescript
+>>>>>>> 2f92b7bd3e5aeb848bffa8f87812aaf910f5cc87
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
